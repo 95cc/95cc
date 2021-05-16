@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devyc95
 - 👀 I’m interested in iOS and JavaScript.
-- 🌱 I’m currently learning iOS any demos.
+- 🌱 I’m currently learning any iOS demos.
 - 💞️ I’m looking to collaborate on iOS demos.
 - 📫 How to reach me: send email to me(836058144@qq.com).
 
