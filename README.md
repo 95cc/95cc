@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devyc95
+- 👋 Hi, I’m @devshiye
 - 👀 I’m interested in iOS and JavaScript.
 - 🌱 I’m currently learning any iOS demos.
 - 💞️ I’m looking to collaborate on iOS demos.
